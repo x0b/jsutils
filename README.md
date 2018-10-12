@@ -1,2 +1,2 @@
 # jsutils
-JS utils dumping ground
+Small utilities and snippets that i've worked on
